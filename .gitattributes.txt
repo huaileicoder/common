@@ -1,0 +1,2 @@
+*.js linguist-language=Java
+案发后复健科
